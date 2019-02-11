@@ -1,0 +1,4 @@
+/* Hide default crosslist buttons */
+.crosslist_link {
+  display: none !important;
+}
